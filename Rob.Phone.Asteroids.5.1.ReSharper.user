@@ -1,0 +1,245 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="5376" fromTop="15" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Asteroid.cs" caret="1174" fromTop="0" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Ship.cs" caret="1465" fromTop="23" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Bullet.cs" caret="873" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Bullet.cs" caret="1344" fromTop="27" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="2338" fromTop="18" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="1013" fromTop="9" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="678" fromTop="11" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="522" fromTop="8" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Ship.cs" caret="1293" fromTop="33" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="3319" fromTop="15" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Bullet.cs" caret="1297" fromTop="25" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="6231" fromTop="35" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="5588" fromTop="27" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Ship.cs" caret="1646" fromTop="32" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Ship.cs" caret="423" fromTop="5" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Ship.cs" caret="1123" fromTop="11" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="5486" fromTop="4" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Ship.cs" caret="1328" fromTop="18" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="5316" fromTop="4" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Asteroid.cs" caret="1767" fromTop="21" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Asteroid.cs" caret="1065" fromTop="10" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Asteroid.cs" caret="1337" fromTop="13" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Asteroid.cs" caret="3291" fromTop="34" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Asteroid.cs" caret="547" fromTop="0" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="3872" fromTop="30" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="100" fromTop="3" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/f:Asteroids.cs" caret="3523" fromTop="21" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Bullet.cs" caret="1834" fromTop="21" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Bullet.cs" caret="2251" fromTop="40" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Bullet.cs" caret="2174" fromTop="38" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Bullet.cs" caret="500" fromTop="12" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Bullet.cs" caret="1711" fromTop="17" />
+      <File id="833C76B2-14E6-4E0A-B599-FD7B81BF2223/d:Classes/f:Bullet.cs" caret="873" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="_spriteBatch" priority="6" />
+      <Item value="Content" priority="2" />
+      <Item value="Texture2D`0" priority="2" />
+      <Item value="ctor" priority="2" />
+      <Item value="int" priority="7" />
+      <Item value="private" priority="22" />
+      <Item value="Game`0" priority="1" />
+      <Item value="Vector2`0" priority="22" />
+      <Item value="float" priority="15" />
+      <Item value="_game" priority="10" />
+      <Item value="game" priority="0" />
+      <Item value="_color" priority="2" />
+      <Item value="color" priority="0" />
+      <Item value="_texture" priority="10" />
+      <Item value="texture" priority="0" />
+      <Item value="new" priority="20" />
+      <Item value="centre" priority="2" />
+      <Item value="radius" priority="2" />
+      <Item value="_scale" priority="6" />
+      <Item value="_velocity" priority="4" />
+      <Item value="velocity" priority="1" />
+      <Item value="_radius" priority="8" />
+      <Item value="_topLeft" priority="28" />
+      <Item value="width" priority="1" />
+      <Item value="public" priority="3" />
+      <Item value="void" priority="7" />
+      <Item value="base" priority="0" />
+      <Item value="SpriteBatch`0" priority="2" />
+      <Item value="batch" priority="2" />
+      <Item value="checked" priority="0" />
+      <Item value="if" priority="6" />
+      <Item value="newTopLeft" priority="2" />
+      <Item value="left" priority="1" />
+      <Item value="Vector2" priority="9" />
+      <Item value="right" priority="0" />
+      <Item value="top" priority="0" />
+      <Item value="Asteroids`0" priority="0" />
+      <Item value="List&lt;Asteroid&gt;" priority="0" />
+      <Item value="_asteroids" priority="7" />
+      <Item value="_counter" priority="1" />
+      <Item value="_asteroidRate" priority="0" />
+      <Item value="Asteroid" priority="0" />
+      <Item value="this" priority="2" />
+      <Item value="Color`0" priority="1" />
+      <Item value="_asteroidTexture" priority="1" />
+      <Item value="foreach" priority="4" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="var" priority="12" />
+      <Item value="in" priority="5" />
+      <Item value="roid" priority="1" />
+      <Item value="_rotation" priority="9" />
+      <Item value="random" priority="1" />
+      <Item value="const" priority="1" />
+      <Item value="MaxAsteroids" priority="0" />
+      <Item value="_rotationVelocity" priority="0" />
+      <Item value="_shipTexture" priority="3" />
+      <Item value="spriteBatch" priority="3" />
+      <Item value="SpriteEffects`0" priority="2" />
+      <Item value="readonly" priority="2" />
+      <Item value="_position" priority="7" />
+      <Item value="null" priority="1" />
+      <Item value="HandleTouches`0" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="List&lt;Bullet&gt;" priority="0" />
+      <Item value="Vector2D`0" priority="0" />
+      <Item value="origin" priority="1" />
+      <Item value="VertexPositionColorTexture`0" priority="0" />
+      <Item value="Asteroid`0" priority="0" />
+      <Item value="VELOCITY" priority="0" />
+      <Item value="_origin" priority="7" />
+      <Item value="_target" priority="3" />
+      <Item value="deltaX" priority="0" />
+      <Item value="deltaY" priority="0" />
+      <Item value="Bullet`0" priority="0" />
+      <Item value="_bullets" priority="2" />
+      <Item value="bullet" priority="2" />
+      <Item value="_bulletTexture" priority="0" />
+      <Item value="_ship" priority="3" />
+      <Item value="touches" priority="1" />
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="enemyVec" priority="0" />
+      <Item value="bulletSpeed" priority="0" />
+      <Item value="bulletTrajectory" priority="0" />
+      <Item value="Math`0" priority="0" />
+      <Item value="position" priority="1" />
+      <Item value="dx" priority="0" />
+      <Item value="originX" priority="0" />
+      <Item value="originY" priority="0" />
+      <Item value="asteroid" priority="2" />
+      <Item value="Rectangle`0" priority="0" />
+      <Item value="Rectangle" priority="0" />
+      <Item value="Point" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="target" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteBatch">
+      <Item value="GraphicsDevice" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+      <Item value="Draw`0" priority="3" />
+      <Item value="Begin`0" priority="1" />
+      <Item value="End`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.GraphicsDevice">
+      <Item value="Textures" priority="0" />
+      <Item value="Viewport" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Content.ContentManager">
+      <Item value="Load`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector2">
+      <Item value="X" priority="21" />
+      <Item value="Y" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Texture2D">
+      <Item value="Bounds" priority="0" />
+      <Item value="Width" priority="3" />
+      <Item value="Height" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Rectangle">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Game">
+      <Item value="GraphicsDevice" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Viewport">
+      <Item value="Height" priority="2" />
+      <Item value="Width" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="Where`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
+      <Item value="White" priority="0" />
+      <Item value="Black" priority="0" />
+      <Item value="Tomato" priority="0" />
+      <Item value="Yellow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rob.Phone.Asteroids.Classes.Asteroid">
+      <Item value="Draw`0" priority="1" />
+      <Item value="Update`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="0" />
+      <Item value="NextDouble`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Vector2">
+      <Item value="Zero" priority="2" />
+      <Item value="One" priority="1" />
+      <Item value="Add`0" priority="0" />
+      <Item value="Subtract`0" priority="1" />
+      <Item value="Distance`0" priority="0" />
+      <Item value="Multiply`0" priority="0" />
+      <Item value="Normalize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Graphics.SpriteEffects">
+      <Item value="None" priority="2" />
+      <Item value="FlipVertically" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rob.Phone.Asteroids.Bullet">
+      <Item value="Update`0" priority="0" />
+      <Item value="Draw`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Input.Touch.TouchLocation">
+      <Item value="Position" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Input.Touch.TouchCollection">
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Atan`0" priority="0" />
+      <Item value="Ceiling`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rob.Phone.Asteroids.Ship">
+      <Item value="Draw`0" priority="0" />
+      <Item value="Position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

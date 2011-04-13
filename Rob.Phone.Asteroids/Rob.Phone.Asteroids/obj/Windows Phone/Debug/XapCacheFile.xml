@@ -1,0 +1,10 @@
+﻿<xapCache source="c:\Projects\Experiments\Games\Rob.Phone.Asteroids\Rob.Phone.Asteroids\Rob.Phone.Asteroids\bin\Windows Phone\Debug\Rob.Phone.Asteroids.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="13/04/2011 20:27:24">
+  <file source="c:\Projects\Experiments\Games\Rob.Phone.Asteroids\Rob.Phone.Asteroids\Rob.Phone.Asteroids\Background.png" archivePath="Background.png" lastWriteTime="03/04/2011 10:34:12" />
+  <file source="c:\Projects\Experiments\Games\Rob.Phone.Asteroids\Rob.Phone.Asteroids\Rob.Phone.Asteroids\GameThumbnail.png" archivePath="GameThumbnail.png" lastWriteTime="03/04/2011 10:34:12" />
+  <file source="c:\Projects\Experiments\Games\Rob.Phone.Asteroids\Rob.Phone.Asteroids\Rob.Phone.Asteroids\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="03/04/2011 11:15:36" />
+  <file source="c:\Projects\Experiments\Games\Rob.Phone.Asteroids\Rob.Phone.Asteroids\Rob.Phone.Asteroids\obj\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="03/04/2011 11:15:36" />
+  <file source="c:\Projects\Experiments\Games\Rob.Phone.Asteroids\Rob.Phone.Asteroids\Rob.Phone.Asteroids\bin\Windows Phone\Debug\Rob.Phone.Asteroids.dll" archivePath="Rob.Phone.Asteroids.dll" lastWriteTime="03/04/2011 22:49:14" />
+  <file source="c:\Projects\Experiments\Games\Rob.Phone.Asteroids\Rob.Phone.Asteroids\Rob.Phone.Asteroids\bin\Windows Phone\Debug\Content\Asteroid.xnb" archivePath="Content\Asteroid.xnb" lastWriteTime="03/04/2011 11:15:35" />
+  <file source="c:\Projects\Experiments\Games\Rob.Phone.Asteroids\Rob.Phone.Asteroids\Rob.Phone.Asteroids\bin\Windows Phone\Debug\Content\Ship.xnb" archivePath="Content\Ship.xnb" lastWriteTime="03/04/2011 21:07:18" />
+  <file source="c:\Projects\Experiments\Games\Rob.Phone.Asteroids\Rob.Phone.Asteroids\Rob.Phone.Asteroids\bin\Windows Phone\Debug\Content\Bullet.xnb" archivePath="Content\Bullet.xnb" lastWriteTime="03/04/2011 21:26:26" />
+</xapCache>

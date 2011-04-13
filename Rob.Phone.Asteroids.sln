@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rob.Phone.Asteroids", "Rob.Phone.Asteroids\Rob.Phone.Asteroids\Rob.Phone.Asteroids.csproj", "{833C76B2-14E6-4E0A-B599-FD7B81BF2223}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Rob.Phone.AsteroidsContent", "Rob.Phone.Asteroids\Rob.Phone.AsteroidsContent\Rob.Phone.AsteroidsContent.contentproj", "{7B643743-D72F-4F46-B0BC-9E809D42C6E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833C76B2-14E6-4E0A-B599-FD7B81BF2223}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{833C76B2-14E6-4E0A-B599-FD7B81BF2223}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{833C76B2-14E6-4E0A-B599-FD7B81BF2223}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{833C76B2-14E6-4E0A-B599-FD7B81BF2223}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{833C76B2-14E6-4E0A-B599-FD7B81BF2223}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{833C76B2-14E6-4E0A-B599-FD7B81BF2223}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{7B643743-D72F-4F46-B0BC-9E809D42C6E8}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{7B643743-D72F-4F46-B0BC-9E809D42C6E8}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
